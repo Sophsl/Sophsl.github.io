@@ -7,3 +7,4 @@ Tony stark ist der echte Name des Superhelden "Iron Man". Er ist der Gewinner de
 *Toll
 *Reich
 *Intelligent
+>And I am Tony Stark
